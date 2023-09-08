@@ -51,4 +51,5 @@ print(10 > 5 or 10 < 3) # True or False
 print(not 10 > 5) # not True -> False
 print(not 1 is 1.0) # not False ->< True
 
-숙제: 토딩 도장 8.3
+
+#숙제: 토딩 도장 8.3
