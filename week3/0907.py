@@ -53,3 +53,4 @@ print(not 1 is 1.0) # not False ->< True
 
 
 #숙제: 토딩 도장 8.3
+
