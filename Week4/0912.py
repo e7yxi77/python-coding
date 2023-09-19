@@ -30,3 +30,5 @@ integrate systems more effectively."""
 a,b=input().split()
 print(b,a) 
 
+a = input()
+print=(a,a,a)
