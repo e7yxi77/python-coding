@@ -62,8 +62,8 @@
 # a=int(a)
 # print(bool(a))
 
-a=bool(int(input()))
-print(not a)
+# a=bool(int(input()))
+# print(not a)
 
 
 

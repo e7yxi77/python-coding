@@ -13,7 +13,7 @@
 # b=float(input())
 # print(a+b)
 
-print(bin(534))
-# -> 1000010110 
+# print(bin(534))
+# # -> 1000010110 
 
 
