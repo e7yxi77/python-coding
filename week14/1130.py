@@ -69,27 +69,11 @@
 #     print('walk')
 
 li = [2, 3, 4, 5, ["good", "bad", [100, 200, ["hello"]]]]
-li=str(li)
 
 if "good" in li[4] and 100 in li[4][2] and "hello" not in li[4][2][2]:
     print("힘들다")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
-elif 3 in [0]:
+elif 3 in li:
     print("힘들다2")
 else:
     print("힘들다3")
